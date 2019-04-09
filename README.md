@@ -1,2 +1,12 @@
 # accu2019
-Repository for my ACCU 2019 talks.
+
+Repository for my C++ On Sea 2019 talks.
+
+## Higher-order functions and `function_ref`
+
+* [Abstract](https://conference.accu.org/2019/sessions.html#XHigherorderfunctionsandfunction_ref)
+
+* [Slides](https://github.com/SuperV1234/accu2019/blob/master/slides.pdf)
+
+* [~YouTube video~](TODO)
+
