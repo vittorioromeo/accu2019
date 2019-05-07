@@ -8,5 +8,5 @@ Repository for my C++ On Sea 2019 talks.
 
 * [Slides](https://github.com/SuperV1234/accu2019/blob/master/slides.pdf)
 
-* [~YouTube video~](TODO)
+* [YouTube video](https://www.youtube.com/watch?v=WHRao43ab3I)
 
